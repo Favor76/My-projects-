@@ -1,4 +1,4 @@
-# Controls and Compliance Assessment 
+# Controls and Compliance Assessment
 
 ## Case Study
 
